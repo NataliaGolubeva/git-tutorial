@@ -2,8 +2,13 @@ body {
   background-color: #000;
 }
 h1 {
+<<<<<<< HEAD
   color: orange;
   font-size: 22px;
+=======
+  color: red;
+  font-family: arial;
+>>>>>>> bb55efb0aab4e2a970e996f574ec288edcd2743a
 }
 p {
   color: blue;
